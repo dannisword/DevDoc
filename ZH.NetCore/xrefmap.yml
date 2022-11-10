@@ -1,0 +1,1274 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ZH.NetCore.DataBase
+  name: ZH.NetCore.DataBase
+  href: api/ZH.NetCore.DataBase.html
+  commentId: N:ZH.NetCore.DataBase
+  fullName: ZH.NetCore.DataBase
+  nameWithType: ZH.NetCore.DataBase
+- uid: ZH.NetCore.DataBase.DbConvert
+  name: DbConvert
+  href: api/ZH.NetCore.DataBase.DbConvert.html
+  commentId: T:ZH.NetCore.DataBase.DbConvert
+  fullName: ZH.NetCore.DataBase.DbConvert
+  nameWithType: DbConvert
+- uid: ZH.NetCore.DataBase.DbConvert.CreateItem*
+  name: CreateItem
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_CreateItem_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.CreateItem
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.CreateItem
+  nameWithType: DbConvert.CreateItem
+- uid: ZH.NetCore.DataBase.DbConvert.CreateItem``1(System.Data.DataRow)
+  name: CreateItem<T>(DataRow)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_CreateItem__1_System_Data_DataRow_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.CreateItem``1(System.Data.DataRow)
+  name.vb: CreateItem(Of T)(DataRow)
+  fullName: ZH.NetCore.DataBase.DbConvert.CreateItem<T>(System.Data.DataRow)
+  fullName.vb: ZH.NetCore.DataBase.DbConvert.CreateItem(Of T)(System.Data.DataRow)
+  nameWithType: DbConvert.CreateItem<T>(DataRow)
+  nameWithType.vb: DbConvert.CreateItem(Of T)(DataRow)
+- uid: ZH.NetCore.DataBase.DbConvert.CreateTable*
+  name: CreateTable
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_CreateTable_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.CreateTable
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.CreateTable
+  nameWithType: DbConvert.CreateTable
+- uid: ZH.NetCore.DataBase.DbConvert.CreateTable``1
+  name: CreateTable<T>()
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_CreateTable__1
+  commentId: M:ZH.NetCore.DataBase.DbConvert.CreateTable``1
+  name.vb: CreateTable(Of T)()
+  fullName: ZH.NetCore.DataBase.DbConvert.CreateTable<T>()
+  fullName.vb: ZH.NetCore.DataBase.DbConvert.CreateTable(Of T)()
+  nameWithType: DbConvert.CreateTable<T>()
+  nameWithType.vb: DbConvert.CreateTable(Of T)()
+- uid: ZH.NetCore.DataBase.DbConvert.IsUniCode(System.String)
+  name: IsUniCode(String)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_IsUniCode_System_String_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.IsUniCode(System.String)
+  fullName: ZH.NetCore.DataBase.DbConvert.IsUniCode(System.String)
+  nameWithType: DbConvert.IsUniCode(String)
+- uid: ZH.NetCore.DataBase.DbConvert.IsUniCode*
+  name: IsUniCode
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_IsUniCode_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.IsUniCode
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.IsUniCode
+  nameWithType: DbConvert.IsUniCode
+- uid: ZH.NetCore.DataBase.DbConvert.ToBoolean(System.Object,System.Object)
+  name: ToBoolean(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToBoolean_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToBoolean(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToBoolean(System.Object, System.Object)
+  nameWithType: DbConvert.ToBoolean(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToBoolean*
+  name: ToBoolean
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToBoolean_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToBoolean
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToBoolean
+  nameWithType: DbConvert.ToBoolean
+- uid: ZH.NetCore.DataBase.DbConvert.ToCollection*
+  name: ToCollection
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToCollection_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToCollection
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToCollection
+  nameWithType: DbConvert.ToCollection
+- uid: ZH.NetCore.DataBase.DbConvert.ToCollection``1(System.Collections.Generic.IList{System.Data.DataRow})
+  name: ToCollection<T>(IList<DataRow>)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToCollection__1_System_Collections_Generic_IList_System_Data_DataRow__
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToCollection``1(System.Collections.Generic.IList{System.Data.DataRow})
+  name.vb: ToCollection(Of T)(IList(Of DataRow))
+  fullName: ZH.NetCore.DataBase.DbConvert.ToCollection<T>(System.Collections.Generic.IList<System.Data.DataRow>)
+  fullName.vb: ZH.NetCore.DataBase.DbConvert.ToCollection(Of T)(System.Collections.Generic.IList(Of System.Data.DataRow))
+  nameWithType: DbConvert.ToCollection<T>(IList<DataRow>)
+  nameWithType.vb: DbConvert.ToCollection(Of T)(IList(Of DataRow))
+- uid: ZH.NetCore.DataBase.DbConvert.ToCollection``1(System.Data.DataTable)
+  name: ToCollection<T>(DataTable)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToCollection__1_System_Data_DataTable_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToCollection``1(System.Data.DataTable)
+  name.vb: ToCollection(Of T)(DataTable)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToCollection<T>(System.Data.DataTable)
+  fullName.vb: ZH.NetCore.DataBase.DbConvert.ToCollection(Of T)(System.Data.DataTable)
+  nameWithType: DbConvert.ToCollection<T>(DataTable)
+  nameWithType.vb: DbConvert.ToCollection(Of T)(DataTable)
+- uid: ZH.NetCore.DataBase.DbConvert.ToDataTable*
+  name: ToDataTable
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDataTable_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToDataTable
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDataTable
+  nameWithType: DbConvert.ToDataTable
+- uid: ZH.NetCore.DataBase.DbConvert.ToDataTable``1(System.Collections.Generic.IList{``0})
+  name: ToDataTable<T>(IList<T>)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDataTable__1_System_Collections_Generic_IList___0__
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToDataTable``1(System.Collections.Generic.IList{``0})
+  name.vb: ToDataTable(Of T)(IList(Of T))
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDataTable<T>(System.Collections.Generic.IList<T>)
+  fullName.vb: ZH.NetCore.DataBase.DbConvert.ToDataTable(Of T)(System.Collections.Generic.IList(Of T))
+  nameWithType: DbConvert.ToDataTable<T>(IList<T>)
+  nameWithType.vb: DbConvert.ToDataTable(Of T)(IList(Of T))
+- uid: ZH.NetCore.DataBase.DbConvert.ToDateTime(System.Object,System.Object)
+  name: ToDateTime(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDateTime_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToDateTime(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDateTime(System.Object, System.Object)
+  nameWithType: DbConvert.ToDateTime(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToDateTime*
+  name: ToDateTime
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDateTime_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToDateTime
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDateTime
+  nameWithType: DbConvert.ToDateTime
+- uid: ZH.NetCore.DataBase.DbConvert.ToDecimal(System.Object,System.Object)
+  name: ToDecimal(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDecimal_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToDecimal(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDecimal(System.Object, System.Object)
+  nameWithType: DbConvert.ToDecimal(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToDecimal*
+  name: ToDecimal
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDecimal_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToDecimal
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDecimal
+  nameWithType: DbConvert.ToDecimal
+- uid: ZH.NetCore.DataBase.DbConvert.ToDouble(System.Object,System.Object)
+  name: ToDouble(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDouble_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToDouble(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDouble(System.Object, System.Object)
+  nameWithType: DbConvert.ToDouble(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToDouble*
+  name: ToDouble
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToDouble_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToDouble
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToDouble
+  nameWithType: DbConvert.ToDouble
+- uid: ZH.NetCore.DataBase.DbConvert.ToFloat(System.Object,System.Object)
+  name: ToFloat(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToFloat_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToFloat(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToFloat(System.Object, System.Object)
+  nameWithType: DbConvert.ToFloat(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToFloat*
+  name: ToFloat
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToFloat_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToFloat
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToFloat
+  nameWithType: DbConvert.ToFloat
+- uid: ZH.NetCore.DataBase.DbConvert.ToInt16(System.Object,System.Object)
+  name: ToInt16(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToInt16_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToInt16(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToInt16(System.Object, System.Object)
+  nameWithType: DbConvert.ToInt16(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToInt16*
+  name: ToInt16
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToInt16_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToInt16
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToInt16
+  nameWithType: DbConvert.ToInt16
+- uid: ZH.NetCore.DataBase.DbConvert.ToInt32(System.Object,System.Object)
+  name: ToInt32(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToInt32_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToInt32(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToInt32(System.Object, System.Object)
+  nameWithType: DbConvert.ToInt32(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToInt32*
+  name: ToInt32
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToInt32_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToInt32
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToInt32
+  nameWithType: DbConvert.ToInt32
+- uid: ZH.NetCore.DataBase.DbConvert.ToInt64(System.Object,System.Object)
+  name: ToInt64(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToInt64_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToInt64(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToInt64(System.Object, System.Object)
+  nameWithType: DbConvert.ToInt64(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToInt64*
+  name: ToInt64
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToInt64_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToInt64
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToInt64
+  nameWithType: DbConvert.ToInt64
+- uid: ZH.NetCore.DataBase.DbConvert.ToString(System.Object,System.Object)
+  name: ToString(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToString_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToString(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToString(System.Object, System.Object)
+  nameWithType: DbConvert.ToString(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToString*
+  name: ToString
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToString_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToString
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToString
+  nameWithType: DbConvert.ToString
+- uid: ZH.NetCore.DataBase.DbConvert.ToTinyInt(System.Object,System.Object)
+  name: ToTinyInt(Object, Object)
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToTinyInt_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.DbConvert.ToTinyInt(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.DbConvert.ToTinyInt(System.Object, System.Object)
+  nameWithType: DbConvert.ToTinyInt(Object, Object)
+- uid: ZH.NetCore.DataBase.DbConvert.ToTinyInt*
+  name: ToTinyInt
+  href: api/ZH.NetCore.DataBase.DbConvert.html#ZH_NetCore_DataBase_DbConvert_ToTinyInt_
+  commentId: Overload:ZH.NetCore.DataBase.DbConvert.ToTinyInt
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.DbConvert.ToTinyInt
+  nameWithType: DbConvert.ToTinyInt
+- uid: ZH.NetCore.DataBase.Sql
+  name: Sql
+  href: api/ZH.NetCore.DataBase.Sql.html
+  commentId: T:ZH.NetCore.DataBase.Sql
+  fullName: ZH.NetCore.DataBase.Sql
+  nameWithType: Sql
+- uid: ZH.NetCore.DataBase.Sql.#ctor(System.String)
+  name: Sql(String)
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql__ctor_System_String_
+  commentId: M:ZH.NetCore.DataBase.Sql.#ctor(System.String)
+  fullName: ZH.NetCore.DataBase.Sql.Sql(System.String)
+  nameWithType: Sql.Sql(String)
+- uid: ZH.NetCore.DataBase.Sql.#ctor*
+  name: Sql
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql__ctor_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.#ctor
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Sql
+  nameWithType: Sql.Sql
+- uid: ZH.NetCore.DataBase.Sql.BeginTransaction
+  name: BeginTransaction()
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_BeginTransaction
+  commentId: M:ZH.NetCore.DataBase.Sql.BeginTransaction
+  fullName: ZH.NetCore.DataBase.Sql.BeginTransaction()
+  nameWithType: Sql.BeginTransaction()
+- uid: ZH.NetCore.DataBase.Sql.BeginTransaction*
+  name: BeginTransaction
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_BeginTransaction_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.BeginTransaction
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.BeginTransaction
+  nameWithType: Sql.BeginTransaction
+- uid: ZH.NetCore.DataBase.Sql.Command
+  name: Command
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Command
+  commentId: P:ZH.NetCore.DataBase.Sql.Command
+  fullName: ZH.NetCore.DataBase.Sql.Command
+  nameWithType: Sql.Command
+- uid: ZH.NetCore.DataBase.Sql.Command*
+  name: Command
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Command_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Command
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Command
+  nameWithType: Sql.Command
+- uid: ZH.NetCore.DataBase.Sql.CommandText
+  name: CommandText
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_CommandText
+  commentId: P:ZH.NetCore.DataBase.Sql.CommandText
+  fullName: ZH.NetCore.DataBase.Sql.CommandText
+  nameWithType: Sql.CommandText
+- uid: ZH.NetCore.DataBase.Sql.CommandText*
+  name: CommandText
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_CommandText_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.CommandText
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.CommandText
+  nameWithType: Sql.CommandText
+- uid: ZH.NetCore.DataBase.Sql.Commit
+  name: Commit()
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Commit
+  commentId: M:ZH.NetCore.DataBase.Sql.Commit
+  fullName: ZH.NetCore.DataBase.Sql.Commit()
+  nameWithType: Sql.Commit()
+- uid: ZH.NetCore.DataBase.Sql.Commit*
+  name: Commit
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Commit_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Commit
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Commit
+  nameWithType: Sql.Commit
+- uid: ZH.NetCore.DataBase.Sql.Dispose
+  name: Dispose()
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Dispose
+  commentId: M:ZH.NetCore.DataBase.Sql.Dispose
+  fullName: ZH.NetCore.DataBase.Sql.Dispose()
+  nameWithType: Sql.Dispose()
+- uid: ZH.NetCore.DataBase.Sql.Dispose*
+  name: Dispose
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Dispose_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Dispose
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Dispose
+  nameWithType: Sql.Dispose
+- uid: ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery
+  name: ExecuteDirtyQuery()
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteDirtyQuery
+  commentId: M:ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery()
+  nameWithType: Sql.ExecuteDirtyQuery()
+- uid: ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery(System.Int32,System.Int32)
+  name: ExecuteDirtyQuery(Int32, Int32)
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteDirtyQuery_System_Int32_System_Int32_
+  commentId: M:ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery(System.Int32,System.Int32)
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery(System.Int32, System.Int32)
+  nameWithType: Sql.ExecuteDirtyQuery(Int32, Int32)
+- uid: ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery*
+  name: ExecuteDirtyQuery
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteDirtyQuery_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteDirtyQuery
+  nameWithType: Sql.ExecuteDirtyQuery
+- uid: ZH.NetCore.DataBase.Sql.ExecuteNonQuery
+  name: ExecuteNonQuery()
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteNonQuery
+  commentId: M:ZH.NetCore.DataBase.Sql.ExecuteNonQuery
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteNonQuery()
+  nameWithType: Sql.ExecuteNonQuery()
+- uid: ZH.NetCore.DataBase.Sql.ExecuteNonQuery(System.Int32@)
+  name: ExecuteNonQuery(out Int32)
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteNonQuery_System_Int32__
+  commentId: M:ZH.NetCore.DataBase.Sql.ExecuteNonQuery(System.Int32@)
+  name.vb: ExecuteNonQuery(ByRef Int32)
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteNonQuery(out System.Int32)
+  fullName.vb: ZH.NetCore.DataBase.Sql.ExecuteNonQuery(ByRef System.Int32)
+  nameWithType: Sql.ExecuteNonQuery(out Int32)
+  nameWithType.vb: Sql.ExecuteNonQuery(ByRef Int32)
+- uid: ZH.NetCore.DataBase.Sql.ExecuteNonQuery*
+  name: ExecuteNonQuery
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteNonQuery_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.ExecuteNonQuery
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteNonQuery
+  nameWithType: Sql.ExecuteNonQuery
+- uid: ZH.NetCore.DataBase.Sql.ExecuteQuery
+  name: ExecuteQuery()
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteQuery
+  commentId: M:ZH.NetCore.DataBase.Sql.ExecuteQuery
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteQuery()
+  nameWithType: Sql.ExecuteQuery()
+- uid: ZH.NetCore.DataBase.Sql.ExecuteQuery(System.Int32,System.Int32)
+  name: ExecuteQuery(Int32, Int32)
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteQuery_System_Int32_System_Int32_
+  commentId: M:ZH.NetCore.DataBase.Sql.ExecuteQuery(System.Int32,System.Int32)
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteQuery(System.Int32, System.Int32)
+  nameWithType: Sql.ExecuteQuery(Int32, Int32)
+- uid: ZH.NetCore.DataBase.Sql.ExecuteQuery*
+  name: ExecuteQuery
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExecuteQuery_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.ExecuteQuery
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.ExecuteQuery
+  nameWithType: Sql.ExecuteQuery
+- uid: ZH.NetCore.DataBase.Sql.ExpectionMessage
+  name: ExpectionMessage
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExpectionMessage
+  commentId: P:ZH.NetCore.DataBase.Sql.ExpectionMessage
+  fullName: ZH.NetCore.DataBase.Sql.ExpectionMessage
+  nameWithType: Sql.ExpectionMessage
+- uid: ZH.NetCore.DataBase.Sql.ExpectionMessage*
+  name: ExpectionMessage
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ExpectionMessage_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.ExpectionMessage
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.ExpectionMessage
+  nameWithType: Sql.ExpectionMessage
+- uid: ZH.NetCore.DataBase.Sql.GetIdentityNo(System.String)
+  name: GetIdentityNo(String)
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_GetIdentityNo_System_String_
+  commentId: M:ZH.NetCore.DataBase.Sql.GetIdentityNo(System.String)
+  fullName: ZH.NetCore.DataBase.Sql.GetIdentityNo(System.String)
+  nameWithType: Sql.GetIdentityNo(String)
+- uid: ZH.NetCore.DataBase.Sql.GetIdentityNo*
+  name: GetIdentityNo
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_GetIdentityNo_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.GetIdentityNo
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.GetIdentityNo
+  nameWithType: Sql.GetIdentityNo
+- uid: ZH.NetCore.DataBase.Sql.ParamByName(System.String)
+  name: ParamByName(String)
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ParamByName_System_String_
+  commentId: M:ZH.NetCore.DataBase.Sql.ParamByName(System.String)
+  fullName: ZH.NetCore.DataBase.Sql.ParamByName(System.String)
+  nameWithType: Sql.ParamByName(String)
+- uid: ZH.NetCore.DataBase.Sql.ParamByName*
+  name: ParamByName
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_ParamByName_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.ParamByName
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.ParamByName
+  nameWithType: Sql.ParamByName
+- uid: ZH.NetCore.DataBase.Sql.Params
+  name: Sql.Params
+  href: api/ZH.NetCore.DataBase.Sql.Params.html
+  commentId: T:ZH.NetCore.DataBase.Sql.Params
+  fullName: ZH.NetCore.DataBase.Sql.Params
+  nameWithType: Sql.Params
+- uid: ZH.NetCore.DataBase.Sql.Params.#ctor(System.Data.SqlClient.SqlParameterCollection)
+  name: Params(SqlParameterCollection)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params__ctor_System_Data_SqlClient_SqlParameterCollection_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.#ctor(System.Data.SqlClient.SqlParameterCollection)
+  fullName: ZH.NetCore.DataBase.Sql.Params.Params(System.Data.SqlClient.SqlParameterCollection)
+  nameWithType: Sql.Params.Params(SqlParameterCollection)
+- uid: ZH.NetCore.DataBase.Sql.Params.#ctor*
+  name: Params
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params__ctor_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.#ctor
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.Params
+  nameWithType: Sql.Params.Params
+- uid: ZH.NetCore.DataBase.Sql.Params.AsBool
+  name: AsBool
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsBool
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsBool
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsBool
+  nameWithType: Sql.Params.AsBool
+- uid: ZH.NetCore.DataBase.Sql.Params.AsBool*
+  name: AsBool
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsBool_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsBool
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsBool
+  nameWithType: Sql.Params.AsBool
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDateTime
+  name: AsDateTime
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDateTime
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsDateTime
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDateTime
+  nameWithType: Sql.Params.AsDateTime
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDateTime*
+  name: AsDateTime
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDateTime_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsDateTime
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDateTime
+  nameWithType: Sql.Params.AsDateTime
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDBNull
+  name: AsDBNull
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDBNull
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsDBNull
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDBNull
+  nameWithType: Sql.Params.AsDBNull
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDBNull*
+  name: AsDBNull
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDBNull_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsDBNull
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDBNull
+  nameWithType: Sql.Params.AsDBNull
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDecimal
+  name: AsDecimal
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDecimal
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsDecimal
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDecimal
+  nameWithType: Sql.Params.AsDecimal
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDecimal*
+  name: AsDecimal
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDecimal_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsDecimal
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDecimal
+  nameWithType: Sql.Params.AsDecimal
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDouble
+  name: AsDouble
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDouble
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsDouble
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDouble
+  nameWithType: Sql.Params.AsDouble
+- uid: ZH.NetCore.DataBase.Sql.Params.AsDouble*
+  name: AsDouble
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsDouble_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsDouble
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsDouble
+  nameWithType: Sql.Params.AsDouble
+- uid: ZH.NetCore.DataBase.Sql.Params.AsInteger
+  name: AsInteger
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsInteger
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsInteger
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsInteger
+  nameWithType: Sql.Params.AsInteger
+- uid: ZH.NetCore.DataBase.Sql.Params.AsInteger*
+  name: AsInteger
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsInteger_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsInteger
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsInteger
+  nameWithType: Sql.Params.AsInteger
+- uid: ZH.NetCore.DataBase.Sql.Params.AsString
+  name: AsString
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsString
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsString
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsString
+  nameWithType: Sql.Params.AsString
+- uid: ZH.NetCore.DataBase.Sql.Params.AsString*
+  name: AsString
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsString_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsString
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsString
+  nameWithType: Sql.Params.AsString
+- uid: ZH.NetCore.DataBase.Sql.Params.AsText
+  name: AsText
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsText
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.AsText
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsText
+  nameWithType: Sql.Params.AsText
+- uid: ZH.NetCore.DataBase.Sql.Params.AsText*
+  name: AsText
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_AsText_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.AsText
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.AsText
+  nameWithType: Sql.Params.AsText
+- uid: ZH.NetCore.DataBase.Sql.Params.ParamName
+  name: ParamName
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_ParamName
+  commentId: P:ZH.NetCore.DataBase.Sql.Params.ParamName
+  fullName: ZH.NetCore.DataBase.Sql.Params.ParamName
+  nameWithType: Sql.Params.ParamName
+- uid: ZH.NetCore.DataBase.Sql.Params.ParamName*
+  name: ParamName
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_ParamName_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.ParamName
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.ParamName
+  nameWithType: Sql.Params.ParamName
+- uid: ZH.NetCore.DataBase.Sql.Params.SetBool(System.Object)
+  name: SetBool(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetBool_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetBool(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetBool(System.Object)
+  nameWithType: Sql.Params.SetBool(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetBool(System.Object,System.Object)
+  name: SetBool(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetBool_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetBool(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetBool(System.Object, System.Object)
+  nameWithType: Sql.Params.SetBool(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetBool*
+  name: SetBool
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetBool_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetBool
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetBool
+  nameWithType: Sql.Params.SetBool
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDate(System.Object)
+  name: SetDate(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDate_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDate(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDate(System.Object)
+  nameWithType: Sql.Params.SetDate(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDate(System.Object,System.Object)
+  name: SetDate(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDate_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDate(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDate(System.Object, System.Object)
+  nameWithType: Sql.Params.SetDate(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDate*
+  name: SetDate
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDate_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetDate
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDate
+  nameWithType: Sql.Params.SetDate
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime(System.Object)
+  name: SetDateMaxTime(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateMaxTime_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime(System.Object)
+  nameWithType: Sql.Params.SetDateMaxTime(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime(System.Object,System.Object)
+  name: SetDateMaxTime(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateMaxTime_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime(System.Object, System.Object)
+  nameWithType: Sql.Params.SetDateMaxTime(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime*
+  name: SetDateMaxTime
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateMaxTime_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateMaxTime
+  nameWithType: Sql.Params.SetDateMaxTime
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateMinTime(System.Object)
+  name: SetDateMinTime(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateMinTime_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDateMinTime(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateMinTime(System.Object)
+  nameWithType: Sql.Params.SetDateMinTime(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateMinTime(System.Object,System.Object)
+  name: SetDateMinTime(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateMinTime_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDateMinTime(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateMinTime(System.Object, System.Object)
+  nameWithType: Sql.Params.SetDateMinTime(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateMinTime*
+  name: SetDateMinTime
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateMinTime_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetDateMinTime
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateMinTime
+  nameWithType: Sql.Params.SetDateMinTime
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateTime(System.Object)
+  name: SetDateTime(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateTime_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDateTime(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateTime(System.Object)
+  nameWithType: Sql.Params.SetDateTime(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateTime(System.Object,System.Object)
+  name: SetDateTime(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateTime_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDateTime(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateTime(System.Object, System.Object)
+  nameWithType: Sql.Params.SetDateTime(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDateTime*
+  name: SetDateTime
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDateTime_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetDateTime
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDateTime
+  nameWithType: Sql.Params.SetDateTime
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDBNull(System.Object)
+  name: SetDBNull(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDBNull_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDBNull(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDBNull(System.Object)
+  nameWithType: Sql.Params.SetDBNull(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDBNull*
+  name: SetDBNull
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDBNull_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetDBNull
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDBNull
+  nameWithType: Sql.Params.SetDBNull
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDecimal(System.Object)
+  name: SetDecimal(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDecimal_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDecimal(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDecimal(System.Object)
+  nameWithType: Sql.Params.SetDecimal(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDecimal(System.Object,System.Object)
+  name: SetDecimal(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDecimal_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDecimal(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDecimal(System.Object, System.Object)
+  nameWithType: Sql.Params.SetDecimal(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDecimal*
+  name: SetDecimal
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDecimal_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetDecimal
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDecimal
+  nameWithType: Sql.Params.SetDecimal
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDouble(System.Object)
+  name: SetDouble(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDouble_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDouble(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDouble(System.Object)
+  nameWithType: Sql.Params.SetDouble(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDouble(System.Object,System.Object)
+  name: SetDouble(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDouble_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetDouble(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDouble(System.Object, System.Object)
+  nameWithType: Sql.Params.SetDouble(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetDouble*
+  name: SetDouble
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetDouble_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetDouble
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetDouble
+  nameWithType: Sql.Params.SetDouble
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt16(System.Object)
+  name: SetInt16(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt16_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetInt16(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt16(System.Object)
+  nameWithType: Sql.Params.SetInt16(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt16(System.Object,System.Object)
+  name: SetInt16(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt16_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetInt16(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt16(System.Object, System.Object)
+  nameWithType: Sql.Params.SetInt16(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt16*
+  name: SetInt16
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt16_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetInt16
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt16
+  nameWithType: Sql.Params.SetInt16
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt32(System.Object)
+  name: SetInt32(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt32_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetInt32(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt32(System.Object)
+  nameWithType: Sql.Params.SetInt32(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt32(System.Object,System.Object)
+  name: SetInt32(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt32_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetInt32(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt32(System.Object, System.Object)
+  nameWithType: Sql.Params.SetInt32(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt32*
+  name: SetInt32
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt32_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetInt32
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt32
+  nameWithType: Sql.Params.SetInt32
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt64(System.Object)
+  name: SetInt64(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt64_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetInt64(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt64(System.Object)
+  nameWithType: Sql.Params.SetInt64(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt64(System.Object,System.Object)
+  name: SetInt64(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt64_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetInt64(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt64(System.Object, System.Object)
+  nameWithType: Sql.Params.SetInt64(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetInt64*
+  name: SetInt64
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetInt64_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetInt64
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetInt64
+  nameWithType: Sql.Params.SetInt64
+- uid: ZH.NetCore.DataBase.Sql.Params.SetString(System.Object)
+  name: SetString(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetString_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetString(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetString(System.Object)
+  nameWithType: Sql.Params.SetString(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetString(System.Object,System.Object)
+  name: SetString(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetString_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetString(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetString(System.Object, System.Object)
+  nameWithType: Sql.Params.SetString(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetString*
+  name: SetString
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetString_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetString
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetString
+  nameWithType: Sql.Params.SetString
+- uid: ZH.NetCore.DataBase.Sql.Params.SetText(System.Object)
+  name: SetText(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetText_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetText(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetText(System.Object)
+  nameWithType: Sql.Params.SetText(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetText(System.Object,System.Object)
+  name: SetText(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetText_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetText(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetText(System.Object, System.Object)
+  nameWithType: Sql.Params.SetText(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetText*
+  name: SetText
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetText_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetText
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetText
+  nameWithType: Sql.Params.SetText
+- uid: ZH.NetCore.DataBase.Sql.Params.SetTinyInt(System.Object)
+  name: SetTinyInt(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetTinyInt_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetTinyInt(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetTinyInt(System.Object)
+  nameWithType: Sql.Params.SetTinyInt(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetTinyInt(System.Object,System.Object)
+  name: SetTinyInt(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetTinyInt_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetTinyInt(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetTinyInt(System.Object, System.Object)
+  nameWithType: Sql.Params.SetTinyInt(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetTinyInt*
+  name: SetTinyInt
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetTinyInt_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetTinyInt
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetTinyInt
+  nameWithType: Sql.Params.SetTinyInt
+- uid: ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte[])
+  name: SetVarBinary(Byte[])
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetVarBinary_System_Byte___
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte[])
+  name.vb: SetVarBinary(Byte())
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte[])
+  fullName.vb: ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte())
+  nameWithType: Sql.Params.SetVarBinary(Byte[])
+  nameWithType.vb: Sql.Params.SetVarBinary(Byte())
+- uid: ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte[],System.Byte[])
+  name: SetVarBinary(Byte[], Byte[])
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetVarBinary_System_Byte___System_Byte___
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte[],System.Byte[])
+  name.vb: SetVarBinary(Byte(), Byte())
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte[], System.Byte[])
+  fullName.vb: ZH.NetCore.DataBase.Sql.Params.SetVarBinary(System.Byte(), System.Byte())
+  nameWithType: Sql.Params.SetVarBinary(Byte[], Byte[])
+  nameWithType.vb: Sql.Params.SetVarBinary(Byte(), Byte())
+- uid: ZH.NetCore.DataBase.Sql.Params.SetVarBinary*
+  name: SetVarBinary
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetVarBinary_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetVarBinary
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetVarBinary
+  nameWithType: Sql.Params.SetVarBinary
+- uid: ZH.NetCore.DataBase.Sql.Params.SetXml(System.Object)
+  name: SetXml(Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetXml_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetXml(System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetXml(System.Object)
+  nameWithType: Sql.Params.SetXml(Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetXml(System.Object,System.Object)
+  name: SetXml(Object, Object)
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetXml_System_Object_System_Object_
+  commentId: M:ZH.NetCore.DataBase.Sql.Params.SetXml(System.Object,System.Object)
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetXml(System.Object, System.Object)
+  nameWithType: Sql.Params.SetXml(Object, Object)
+- uid: ZH.NetCore.DataBase.Sql.Params.SetXml*
+  name: SetXml
+  href: api/ZH.NetCore.DataBase.Sql.Params.html#ZH_NetCore_DataBase_Sql_Params_SetXml_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Params.SetXml
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Params.SetXml
+  nameWithType: Sql.Params.SetXml
+- uid: ZH.NetCore.DataBase.Sql.Rollback
+  name: Rollback()
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Rollback
+  commentId: M:ZH.NetCore.DataBase.Sql.Rollback
+  fullName: ZH.NetCore.DataBase.Sql.Rollback()
+  nameWithType: Sql.Rollback()
+- uid: ZH.NetCore.DataBase.Sql.Rollback*
+  name: Rollback
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Rollback_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Rollback
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Rollback
+  nameWithType: Sql.Rollback
+- uid: ZH.NetCore.DataBase.Sql.Status
+  name: Status
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Status
+  commentId: P:ZH.NetCore.DataBase.Sql.Status
+  fullName: ZH.NetCore.DataBase.Sql.Status
+  nameWithType: Sql.Status
+- uid: ZH.NetCore.DataBase.Sql.Status*
+  name: Status
+  href: api/ZH.NetCore.DataBase.Sql.html#ZH_NetCore_DataBase_Sql_Status_
+  commentId: Overload:ZH.NetCore.DataBase.Sql.Status
+  isSpec: "True"
+  fullName: ZH.NetCore.DataBase.Sql.Status
+  nameWithType: Sql.Status
+- uid: ZH.NetCore.Extensions
+  name: ZH.NetCore.Extensions
+  href: api/ZH.NetCore.Extensions.html
+  commentId: N:ZH.NetCore.Extensions
+  fullName: ZH.NetCore.Extensions
+  nameWithType: ZH.NetCore.Extensions
+- uid: ZH.NetCore.Extensions.DataTableExtension
+  name: DataTableExtension
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html
+  commentId: T:ZH.NetCore.Extensions.DataTableExtension
+  fullName: ZH.NetCore.Extensions.DataTableExtension
+  nameWithType: DataTableExtension
+- uid: ZH.NetCore.Extensions.DataTableExtension.Add*
+  name: Add
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_Add_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.Add
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.Add
+  nameWithType: DataTableExtension.Add
+- uid: ZH.NetCore.Extensions.DataTableExtension.Add``1(ZH.NetCore.DataBase.Sql,``0)
+  name: Add<T>(Sql, T)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_Add__1_ZH_NetCore_DataBase_Sql___0_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.Add``1(ZH.NetCore.DataBase.Sql,``0)
+  name.vb: Add(Of T)(Sql, T)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.Add<T>(ZH.NetCore.DataBase.Sql, T)
+  fullName.vb: ZH.NetCore.Extensions.DataTableExtension.Add(Of T)(ZH.NetCore.DataBase.Sql, T)
+  nameWithType: DataTableExtension.Add<T>(Sql, T)
+  nameWithType.vb: DataTableExtension.Add(Of T)(Sql, T)
+- uid: ZH.NetCore.Extensions.DataTableExtension.Add``1(ZH.NetCore.DataBase.Sql,``0,System.Int32@)
+  name: Add<T>(Sql, T, ref Int32)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_Add__1_ZH_NetCore_DataBase_Sql___0_System_Int32__
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.Add``1(ZH.NetCore.DataBase.Sql,``0,System.Int32@)
+  name.vb: Add(Of T)(Sql, T, ByRef Int32)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.Add<T>(ZH.NetCore.DataBase.Sql, T, ref System.Int32)
+  fullName.vb: ZH.NetCore.Extensions.DataTableExtension.Add(Of T)(ZH.NetCore.DataBase.Sql, T, ByRef System.Int32)
+  nameWithType: DataTableExtension.Add<T>(Sql, T, ref Int32)
+  nameWithType.vb: DataTableExtension.Add(Of T)(Sql, T, ByRef Int32)
+- uid: ZH.NetCore.Extensions.DataTableExtension.Get*
+  name: Get
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_Get_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.Get
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.Get
+  nameWithType: DataTableExtension.Get
+- uid: ZH.NetCore.Extensions.DataTableExtension.Get``1(ZH.NetCore.DataBase.Sql,System.String)
+  name: Get<T>(Sql, String)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_Get__1_ZH_NetCore_DataBase_Sql_System_String_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.Get``1(ZH.NetCore.DataBase.Sql,System.String)
+  name.vb: Get(Of T)(Sql, String)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.Get<T>(ZH.NetCore.DataBase.Sql, System.String)
+  fullName.vb: ZH.NetCore.Extensions.DataTableExtension.Get(Of T)(ZH.NetCore.DataBase.Sql, System.String)
+  nameWithType: DataTableExtension.Get<T>(Sql, String)
+  nameWithType.vb: DataTableExtension.Get(Of T)(Sql, String)
+- uid: ZH.NetCore.Extensions.DataTableExtension.GetAll*
+  name: GetAll
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_GetAll_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.GetAll
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.GetAll
+  nameWithType: DataTableExtension.GetAll
+- uid: ZH.NetCore.Extensions.DataTableExtension.GetAll``1(ZH.NetCore.DataBase.Sql)
+  name: GetAll<T>(Sql)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_GetAll__1_ZH_NetCore_DataBase_Sql_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.GetAll``1(ZH.NetCore.DataBase.Sql)
+  name.vb: GetAll(Of T)(Sql)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.GetAll<T>(ZH.NetCore.DataBase.Sql)
+  fullName.vb: ZH.NetCore.Extensions.DataTableExtension.GetAll(Of T)(ZH.NetCore.DataBase.Sql)
+  nameWithType: DataTableExtension.GetAll<T>(Sql)
+  nameWithType.vb: DataTableExtension.GetAll(Of T)(Sql)
+- uid: ZH.NetCore.Extensions.DataTableExtension.GetInt(System.Data.DataRow,System.String)
+  name: GetInt(DataRow, String)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_GetInt_System_Data_DataRow_System_String_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.GetInt(System.Data.DataRow,System.String)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.GetInt(System.Data.DataRow, System.String)
+  nameWithType: DataTableExtension.GetInt(DataRow, String)
+- uid: ZH.NetCore.Extensions.DataTableExtension.GetInt*
+  name: GetInt
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_GetInt_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.GetInt
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.GetInt
+  nameWithType: DataTableExtension.GetInt
+- uid: ZH.NetCore.Extensions.DataTableExtension.GetString(System.Data.DataRow,System.String)
+  name: GetString(DataRow, String)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_GetString_System_Data_DataRow_System_String_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.GetString(System.Data.DataRow,System.String)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.GetString(System.Data.DataRow, System.String)
+  nameWithType: DataTableExtension.GetString(DataRow, String)
+- uid: ZH.NetCore.Extensions.DataTableExtension.GetString*
+  name: GetString
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_GetString_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.GetString
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.GetString
+  nameWithType: DataTableExtension.GetString
+- uid: ZH.NetCore.Extensions.DataTableExtension.ToCamelCase(System.String)
+  name: ToCamelCase(String)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_ToCamelCase_System_String_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.ToCamelCase(System.String)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.ToCamelCase(System.String)
+  nameWithType: DataTableExtension.ToCamelCase(String)
+- uid: ZH.NetCore.Extensions.DataTableExtension.ToCamelCase*
+  name: ToCamelCase
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_ToCamelCase_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.ToCamelCase
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.ToCamelCase
+  nameWithType: DataTableExtension.ToCamelCase
+- uid: ZH.NetCore.Extensions.DataTableExtension.ToDynamicList(System.Data.DataTable)
+  name: ToDynamicList(DataTable)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_ToDynamicList_System_Data_DataTable_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.ToDynamicList(System.Data.DataTable)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.ToDynamicList(System.Data.DataTable)
+  nameWithType: DataTableExtension.ToDynamicList(DataTable)
+- uid: ZH.NetCore.Extensions.DataTableExtension.ToDynamicList*
+  name: ToDynamicList
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_ToDynamicList_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.ToDynamicList
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.ToDynamicList
+  nameWithType: DataTableExtension.ToDynamicList
+- uid: ZH.NetCore.Extensions.DataTableExtension.ToList*
+  name: ToList
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_ToList_
+  commentId: Overload:ZH.NetCore.Extensions.DataTableExtension.ToList
+  isSpec: "True"
+  fullName: ZH.NetCore.Extensions.DataTableExtension.ToList
+  nameWithType: DataTableExtension.ToList
+- uid: ZH.NetCore.Extensions.DataTableExtension.ToList``1(System.Data.DataTable)
+  name: ToList<T>(DataTable)
+  href: api/ZH.NetCore.Extensions.DataTableExtension.html#ZH_NetCore_Extensions_DataTableExtension_ToList__1_System_Data_DataTable_
+  commentId: M:ZH.NetCore.Extensions.DataTableExtension.ToList``1(System.Data.DataTable)
+  name.vb: ToList(Of T)(DataTable)
+  fullName: ZH.NetCore.Extensions.DataTableExtension.ToList<T>(System.Data.DataTable)
+  fullName.vb: ZH.NetCore.Extensions.DataTableExtension.ToList(Of T)(System.Data.DataTable)
+  nameWithType: DataTableExtension.ToList<T>(DataTable)
+  nameWithType.vb: DataTableExtension.ToList(Of T)(DataTable)
+- uid: ZH.NetCore.Infrastructure
+  name: ZH.NetCore.Infrastructure
+  href: api/ZH.NetCore.Infrastructure.html
+  commentId: N:ZH.NetCore.Infrastructure
+  fullName: ZH.NetCore.Infrastructure
+  nameWithType: ZH.NetCore.Infrastructure
+- uid: ZH.NetCore.Infrastructure.DefaultController
+  name: DefaultController
+  href: api/ZH.NetCore.Infrastructure.DefaultController.html
+  commentId: T:ZH.NetCore.Infrastructure.DefaultController
+  fullName: ZH.NetCore.Infrastructure.DefaultController
+  nameWithType: DefaultController
+- uid: ZH.NetCore.Infrastructure.DefaultController.#ctor(Microsoft.Extensions.Configuration.IConfiguration)
+  name: DefaultController(IConfiguration)
+  href: api/ZH.NetCore.Infrastructure.DefaultController.html#ZH_NetCore_Infrastructure_DefaultController__ctor_Microsoft_Extensions_Configuration_IConfiguration_
+  commentId: M:ZH.NetCore.Infrastructure.DefaultController.#ctor(Microsoft.Extensions.Configuration.IConfiguration)
+  fullName: ZH.NetCore.Infrastructure.DefaultController.DefaultController(Microsoft.Extensions.Configuration.IConfiguration)
+  nameWithType: DefaultController.DefaultController(IConfiguration)
+- uid: ZH.NetCore.Infrastructure.DefaultController.#ctor*
+  name: DefaultController
+  href: api/ZH.NetCore.Infrastructure.DefaultController.html#ZH_NetCore_Infrastructure_DefaultController__ctor_
+  commentId: Overload:ZH.NetCore.Infrastructure.DefaultController.#ctor
+  isSpec: "True"
+  fullName: ZH.NetCore.Infrastructure.DefaultController.DefaultController
+  nameWithType: DefaultController.DefaultController
+- uid: ZH.NetCore.Infrastructure.DefaultController.Connect
+  name: Connect
+  href: api/ZH.NetCore.Infrastructure.DefaultController.html#ZH_NetCore_Infrastructure_DefaultController_Connect
+  commentId: P:ZH.NetCore.Infrastructure.DefaultController.Connect
+  fullName: ZH.NetCore.Infrastructure.DefaultController.Connect
+  nameWithType: DefaultController.Connect
+- uid: ZH.NetCore.Infrastructure.DefaultController.Connect*
+  name: Connect
+  href: api/ZH.NetCore.Infrastructure.DefaultController.html#ZH_NetCore_Infrastructure_DefaultController_Connect_
+  commentId: Overload:ZH.NetCore.Infrastructure.DefaultController.Connect
+  isSpec: "True"
+  fullName: ZH.NetCore.Infrastructure.DefaultController.Connect
+  nameWithType: DefaultController.Connect
+- uid: ZH.NetCore.Modals
+  name: ZH.NetCore.Modals
+  href: api/ZH.NetCore.Modals.html
+  commentId: N:ZH.NetCore.Modals
+  fullName: ZH.NetCore.Modals
+  nameWithType: ZH.NetCore.Modals
+- uid: ZH.NetCore.Modals.ResultCode
+  name: ResultCode
+  href: api/ZH.NetCore.Modals.ResultCode.html
+  commentId: T:ZH.NetCore.Modals.ResultCode
+  fullName: ZH.NetCore.Modals.ResultCode
+  nameWithType: ResultCode
+- uid: ZH.NetCore.Modals.ResultCode.Exception
+  name: Exception
+  href: api/ZH.NetCore.Modals.ResultCode.html#ZH_NetCore_Modals_ResultCode_Exception
+  commentId: F:ZH.NetCore.Modals.ResultCode.Exception
+  fullName: ZH.NetCore.Modals.ResultCode.Exception
+  nameWithType: ResultCode.Exception
+- uid: ZH.NetCore.Modals.ResultCode.Failed
+  name: Failed
+  href: api/ZH.NetCore.Modals.ResultCode.html#ZH_NetCore_Modals_ResultCode_Failed
+  commentId: F:ZH.NetCore.Modals.ResultCode.Failed
+  fullName: ZH.NetCore.Modals.ResultCode.Failed
+  nameWithType: ResultCode.Failed
+- uid: ZH.NetCore.Modals.ResultCode.NotFound
+  name: NotFound
+  href: api/ZH.NetCore.Modals.ResultCode.html#ZH_NetCore_Modals_ResultCode_NotFound
+  commentId: F:ZH.NetCore.Modals.ResultCode.NotFound
+  fullName: ZH.NetCore.Modals.ResultCode.NotFound
+  nameWithType: ResultCode.NotFound
+- uid: ZH.NetCore.Modals.ResultCode.Success
+  name: Success
+  href: api/ZH.NetCore.Modals.ResultCode.html#ZH_NetCore_Modals_ResultCode_Success
+  commentId: F:ZH.NetCore.Modals.ResultCode.Success
+  fullName: ZH.NetCore.Modals.ResultCode.Success
+  nameWithType: ResultCode.Success
+- uid: ZH.NetCore.Modals.ResultModel
+  name: ResultModel
+  href: api/ZH.NetCore.Modals.ResultModel.html
+  commentId: T:ZH.NetCore.Modals.ResultModel
+  fullName: ZH.NetCore.Modals.ResultModel
+  nameWithType: ResultModel
+- uid: ZH.NetCore.Modals.ResultModel.#ctor
+  name: ResultModel()
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel__ctor
+  commentId: M:ZH.NetCore.Modals.ResultModel.#ctor
+  fullName: ZH.NetCore.Modals.ResultModel.ResultModel()
+  nameWithType: ResultModel.ResultModel()
+- uid: ZH.NetCore.Modals.ResultModel.#ctor(IEnumerable{System.Object})
+  name: ResultModel(IEnumerable<Object>)
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel__ctor_IEnumerable_System_Object__
+  commentId: M:ZH.NetCore.Modals.ResultModel.#ctor(IEnumerable{System.Object})
+  name.vb: ResultModel(IEnumerable(Of Object))
+  fullName: ZH.NetCore.Modals.ResultModel.ResultModel(IEnumerable<System.Object>)
+  fullName.vb: ZH.NetCore.Modals.ResultModel.ResultModel(IEnumerable(Of System.Object))
+  nameWithType: ResultModel.ResultModel(IEnumerable<Object>)
+  nameWithType.vb: ResultModel.ResultModel(IEnumerable(Of Object))
+- uid: ZH.NetCore.Modals.ResultModel.#ctor(ZH.NetCore.Modals.ResultCode,System.String)
+  name: ResultModel(ResultCode, String)
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel__ctor_ZH_NetCore_Modals_ResultCode_System_String_
+  commentId: M:ZH.NetCore.Modals.ResultModel.#ctor(ZH.NetCore.Modals.ResultCode,System.String)
+  fullName: ZH.NetCore.Modals.ResultModel.ResultModel(ZH.NetCore.Modals.ResultCode, System.String)
+  nameWithType: ResultModel.ResultModel(ResultCode, String)
+- uid: ZH.NetCore.Modals.ResultModel.#ctor*
+  name: ResultModel
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel__ctor_
+  commentId: Overload:ZH.NetCore.Modals.ResultModel.#ctor
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.ResultModel.ResultModel
+  nameWithType: ResultModel.ResultModel
+- uid: ZH.NetCore.Modals.ResultModel.Message
+  name: Message
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_Message
+  commentId: P:ZH.NetCore.Modals.ResultModel.Message
+  fullName: ZH.NetCore.Modals.ResultModel.Message
+  nameWithType: ResultModel.Message
+- uid: ZH.NetCore.Modals.ResultModel.Message*
+  name: Message
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_Message_
+  commentId: Overload:ZH.NetCore.Modals.ResultModel.Message
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.ResultModel.Message
+  nameWithType: ResultModel.Message
+- uid: ZH.NetCore.Modals.ResultModel.ResultCode
+  name: ResultCode
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_ResultCode
+  commentId: P:ZH.NetCore.Modals.ResultModel.ResultCode
+  fullName: ZH.NetCore.Modals.ResultModel.ResultCode
+  nameWithType: ResultModel.ResultCode
+- uid: ZH.NetCore.Modals.ResultModel.ResultCode*
+  name: ResultCode
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_ResultCode_
+  commentId: Overload:ZH.NetCore.Modals.ResultModel.ResultCode
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.ResultModel.ResultCode
+  nameWithType: ResultModel.ResultCode
+- uid: ZH.NetCore.Modals.ResultModel.Source
+  name: Source
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_Source
+  commentId: P:ZH.NetCore.Modals.ResultModel.Source
+  fullName: ZH.NetCore.Modals.ResultModel.Source
+  nameWithType: ResultModel.Source
+- uid: ZH.NetCore.Modals.ResultModel.Source*
+  name: Source
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_Source_
+  commentId: Overload:ZH.NetCore.Modals.ResultModel.Source
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.ResultModel.Source
+  nameWithType: ResultModel.Source
+- uid: ZH.NetCore.Modals.ResultModel.Value
+  name: Value
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_Value
+  commentId: P:ZH.NetCore.Modals.ResultModel.Value
+  fullName: ZH.NetCore.Modals.ResultModel.Value
+  nameWithType: ResultModel.Value
+- uid: ZH.NetCore.Modals.ResultModel.Value*
+  name: Value
+  href: api/ZH.NetCore.Modals.ResultModel.html#ZH_NetCore_Modals_ResultModel_Value_
+  commentId: Overload:ZH.NetCore.Modals.ResultModel.Value
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.ResultModel.Value
+  nameWithType: ResultModel.Value
+- uid: ZH.NetCore.Modals.TableColumn
+  name: TableColumn
+  href: api/ZH.NetCore.Modals.TableColumn.html
+  commentId: T:ZH.NetCore.Modals.TableColumn
+  fullName: ZH.NetCore.Modals.TableColumn
+  nameWithType: TableColumn
+- uid: ZH.NetCore.Modals.TableColumn.ColumnName
+  name: ColumnName
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_ColumnName
+  commentId: P:ZH.NetCore.Modals.TableColumn.ColumnName
+  fullName: ZH.NetCore.Modals.TableColumn.ColumnName
+  nameWithType: TableColumn.ColumnName
+- uid: ZH.NetCore.Modals.TableColumn.ColumnName*
+  name: ColumnName
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_ColumnName_
+  commentId: Overload:ZH.NetCore.Modals.TableColumn.ColumnName
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.TableColumn.ColumnName
+  nameWithType: TableColumn.ColumnName
+- uid: ZH.NetCore.Modals.TableColumn.DataLength
+  name: DataLength
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_DataLength
+  commentId: P:ZH.NetCore.Modals.TableColumn.DataLength
+  fullName: ZH.NetCore.Modals.TableColumn.DataLength
+  nameWithType: TableColumn.DataLength
+- uid: ZH.NetCore.Modals.TableColumn.DataLength*
+  name: DataLength
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_DataLength_
+  commentId: Overload:ZH.NetCore.Modals.TableColumn.DataLength
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.TableColumn.DataLength
+  nameWithType: TableColumn.DataLength
+- uid: ZH.NetCore.Modals.TableColumn.DataType
+  name: DataType
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_DataType
+  commentId: P:ZH.NetCore.Modals.TableColumn.DataType
+  fullName: ZH.NetCore.Modals.TableColumn.DataType
+  nameWithType: TableColumn.DataType
+- uid: ZH.NetCore.Modals.TableColumn.DataType*
+  name: DataType
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_DataType_
+  commentId: Overload:ZH.NetCore.Modals.TableColumn.DataType
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.TableColumn.DataType
+  nameWithType: TableColumn.DataType
+- uid: ZH.NetCore.Modals.TableColumn.Name
+  name: Name
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_Name
+  commentId: P:ZH.NetCore.Modals.TableColumn.Name
+  fullName: ZH.NetCore.Modals.TableColumn.Name
+  nameWithType: TableColumn.Name
+- uid: ZH.NetCore.Modals.TableColumn.Name*
+  name: Name
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_Name_
+  commentId: Overload:ZH.NetCore.Modals.TableColumn.Name
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.TableColumn.Name
+  nameWithType: TableColumn.Name
+- uid: ZH.NetCore.Modals.TableColumn.SchemaName
+  name: SchemaName
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_SchemaName
+  commentId: P:ZH.NetCore.Modals.TableColumn.SchemaName
+  fullName: ZH.NetCore.Modals.TableColumn.SchemaName
+  nameWithType: TableColumn.SchemaName
+- uid: ZH.NetCore.Modals.TableColumn.SchemaName*
+  name: SchemaName
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_SchemaName_
+  commentId: Overload:ZH.NetCore.Modals.TableColumn.SchemaName
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.TableColumn.SchemaName
+  nameWithType: TableColumn.SchemaName
+- uid: ZH.NetCore.Modals.TableColumn.ToString
+  name: ToString()
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_ToString
+  commentId: M:ZH.NetCore.Modals.TableColumn.ToString
+  fullName: ZH.NetCore.Modals.TableColumn.ToString()
+  nameWithType: TableColumn.ToString()
+- uid: ZH.NetCore.Modals.TableColumn.ToString*
+  name: ToString
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_ToString_
+  commentId: Overload:ZH.NetCore.Modals.TableColumn.ToString
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.TableColumn.ToString
+  nameWithType: TableColumn.ToString
+- uid: ZH.NetCore.Modals.TableColumn.Value
+  name: Value
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_Value
+  commentId: P:ZH.NetCore.Modals.TableColumn.Value
+  fullName: ZH.NetCore.Modals.TableColumn.Value
+  nameWithType: TableColumn.Value
+- uid: ZH.NetCore.Modals.TableColumn.Value*
+  name: Value
+  href: api/ZH.NetCore.Modals.TableColumn.html#ZH_NetCore_Modals_TableColumn_Value_
+  commentId: Overload:ZH.NetCore.Modals.TableColumn.Value
+  isSpec: "True"
+  fullName: ZH.NetCore.Modals.TableColumn.Value
+  nameWithType: TableColumn.Value

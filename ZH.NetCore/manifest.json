@@ -1,0 +1,284 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Repositories/zhtech/ZH.Core/ZH.NetCore",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "NHeQHF3Cj267wBKPeJINthtL/JJQQ3j+y4KwIX6jOeg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.DataBase.DbConvert.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.DataBase.DbConvert.html",
+          "hash": "xNQ4FBqbIdVzPrygppm6htg026P5k3t2D62yMY4CmvU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.DataBase.Sql.Params.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.DataBase.Sql.Params.html",
+          "hash": "yyDPwpNK3hCghhTCzoKbnjxHSaFVLEHwZLQhyh0hMQ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.DataBase.Sql.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.DataBase.Sql.html",
+          "hash": "SSkHDtyg62QjD4Lf3RgVSk3U+PFlicmGqtKF+YJARoc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.DataBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.DataBase.html",
+          "hash": "fpgZmi1DcLYkfuA6GQI6cnC51U1bjOXKh9QX0fW5STo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Extensions.DataTableExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Extensions.DataTableExtension.html",
+          "hash": "Zn287exYtzcIyPZOoJNguhjHY+HcpizSx0JLL+hKluY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Extensions.html",
+          "hash": "vzNbiv308emgGGEp3Z3tWuPVlksPdatFdAJUikk9qO8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Infrastructure.DefaultController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Infrastructure.DefaultController.html",
+          "hash": "se+lwfSD7+9zXFl3p1iOJzHEeWIA0ls6wp6q2kYSaQY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Infrastructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Infrastructure.html",
+          "hash": "Ol22ArMxkM/e6fjAbI6YcwuDMJ/3FGhLxboTD+RKJdY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Modals.ResultCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Modals.ResultCode.html",
+          "hash": "D/Q6vjthHuqAv6PgPk/2kQKd/9kAk3i0KnK/zNQATE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Modals.ResultModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Modals.ResultModel.html",
+          "hash": "01Brr4KPEtEuhi8ocsqcMdjqFynIZbJhxp5UwNYyoXM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Modals.TableColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Modals.TableColumn.html",
+          "hash": "3a/PHc5mpQluke3Yejq0UFItIU9gJsKQXt+79K8WqPQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ZH.NetCore.Modals.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ZH.NetCore.Modals.html",
+          "hash": "lhtRE04fLkRTrq5AL6chgy49/sLYz7A2sErpgexrimQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "w8d1EpB2lW1D3UCMrWZ0ksbZYHNg9tW3sG1gvOi2q60="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "4UK0Jrtcm8xLewbqa1ca8PYSEGK5HU0UC0ukA8q2jUo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "nzj3nZSTldqmGMlu3nZJJIODlMZRm0QzNxHM0vuKyTU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "uQiOLckxmpguAW0I3wZ9MSJZhXIpk/qTLoh07UkkF3s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 12,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
